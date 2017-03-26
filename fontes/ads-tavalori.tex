@@ -1,3 +1,14 @@
+\documentclass{standalone}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+% \usepackage{pgfplots,pgfplotstable}
+\usepackage{color}
+
+\usetikzlibrary{arrows,positioning} 
+\input{../../utils/cores}
+
+\begin{document}
+
 \begin{tikzpicture}[font=\sffamily]
   \begin{scope}[shift={(0cm,0cm)}, fill opacity=0.8]
      \draw[fill=mycolor4] (0,0) ellipse (3.5cm and 2.6cm);
@@ -9,3 +20,5 @@
      \node at (1.5,-0.6)[align=center]{\tiny Atenção Domiciliar\\ \tiny à Saúde};
   \end{scope}
 \end{tikzpicture} 
+
+\end{document}

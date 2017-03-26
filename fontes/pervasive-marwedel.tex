@@ -1,3 +1,14 @@
+\documentclass{standalone}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+% \usepackage{pgfplots,pgfplotstable}
+\usepackage{color}
+
+\usetikzlibrary{arrows,positioning} 
+\input{../../utils/cores}
+
+\begin{document}
+
 \tikzset{
     %Define standard arrow tip
     >=stealth',
@@ -44,3 +55,5 @@
         \draw [pil, bend right=30] (B2) edge (C2);
     \end{scope}
 \end{tikzpicture} 
+
+\end{document}
