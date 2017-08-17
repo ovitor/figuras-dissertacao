@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="800"
+   viewBox="0 0 317.49999 211.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="arquitetura.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.02625"
+     inkscape:cx="589.36696"
+     inkscape:cy="417.06585"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="1200px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0.25781566,82.501016"
+       orientation="1,0"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.8125,127.87657"
+       orientation="1,0"
+       id="guide16"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14.695493,79.407228"
+       orientation="1,0"
+       id="guide4724"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.333323)">
+    <g
+       id="g4849"
+       transform="translate(-3.3894501,-1.9716353)">
+      <g
+         transform="translate(66.000811,0.51563134)"
+         id="g4801">
+        <rect
+           style="opacity:0.6;fill:#ffcf0d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect10"
+           width="95.25"
+           height="33.072918"
+           x="23.8125"
+           y="245.75023"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="71.375427"
+           y="258.28339"
+           id="text4558"><tspan
+             sodipodi:role="line"
+             id="tspan4556"
+             x="71.375427"
+             y="258.28339"
+             style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Sensores/</tspan><tspan
+             sodipodi:role="line"
+             x="71.375427"
+             y="271.51254"
+             style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan4560">smartphones</tspan></text>
+        <path
+           style="opacity:0.6;fill:#ffcf0d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 23.8125,211.30776 v 33.07292 h 95.25 V 211.30776 H 44.585239 v 8.7616 h -10.62767 v -8.7616 z"
+           id="rect4592"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="60.510517"
+           y="231.78966"
+           id="text4640"><tspan
+             sodipodi:role="line"
+             id="tspan4638"
+             x="60.510517"
+             y="231.78966"
+             style="stroke-width:0.26458332">Hub</tspan></text>
+        <path
+           style="opacity:0.6;fill:#ffcf0d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 23.8125,173.35689 v 33.07292 h 11.678566 v 9.64024 h 6.963009 v -9.64024 H 119.0625 v -33.07292 z"
+           id="rect4617"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="71.176537"
+           y="185.93889"
+           id="text4644"><tspan
+             sodipodi:role="line"
+             id="tspan4642"
+             x="72.861191"
+             y="185.93889"
+             style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Inferência local </tspan><tspan
+             sodipodi:role="line"
+             x="71.176537"
+             y="199.16806"
+             style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan4646">com ontologias</tspan></text>
+        <rect
+           style="opacity:0.6;fill:#ffcf0d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4634"
+           width="95.25"
+           height="33.072918"
+           x="23.8125"
+           y="138.69629" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.00037044;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="71.661774"
+           y="145.82104"
+           id="text4654"><tspan
+             sodipodi:role="line"
+             x="71.661774"
+             y="145.82104"
+             style="font-size:9.87777805px;line-height:0;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#4d4d4d;stroke-width:0.00037044;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan4656"
+             dy="4.0999999">Aprendizagem de</tspan><tspan
+             sodipodi:role="line"
+             x="73.234116"
+             y="159.05022"
+             style="font-size:9.87777805px;line-height:0;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#4d4d4d;stroke-width:0.00037044;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan4662"
+             dy="-0.30000001">máquinas/redes </tspan><tspan
+             sodipodi:role="line"
+             x="71.661774"
+             y="172.27937"
+             style="font-size:9.87777805px;line-height:0;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#4d4d4d;stroke-width:0.00037044;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan4666"
+             dy="-4.3699999">neurais</tspan></text>
+        <rect
+           style="opacity:0.6;fill:#ffcf0d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4636"
+           width="95.25"
+           height="33.072918"
+           x="23.8125"
+           y="103.97208" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+           x="71.261803"
+           y="117.83945"
+           id="text4688"><tspan
+             sodipodi:role="line"
+             id="tspan4686"
+             x="71.261803"
+             y="117.83945"
+             style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.26458332;stroke-opacity:1">Plataforma</tspan><tspan
+             sodipodi:role="line"
+             x="71.261803"
+             y="131.06862"
+             style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+             id="tspan4690">NextSAÚDE</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.67170578;stroke-miterlimit:4;stroke-dasharray:0.6717058, 2.01511741;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4726"
+           width="114.06982"
+           height="72.045845"
+           x="14.766764"
+           y="209.15613" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="137.9314"
+           y="241.054"
+           id="text4730"><tspan
+             sodipodi:role="line"
+             x="137.9314"
+             y="241.054"
+             style="stroke-width:0.26458332"
+             id="tspan4732">Aquisição de</tspan><tspan
+             sodipodi:role="line"
+             x="137.9314"
+             y="254.28317"
+             style="stroke-width:0.26458332"
+             id="tspan4736">Dados</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="125.55624"
+           y="191.55338"
+           id="text4740"><tspan
+             sodipodi:role="line"
+             id="tspan4738"
+             x="125.55624"
+             y="191.55338"
+             style="stroke-width:0.26458332">Inteligência Local</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="125.0406"
+           y="159.32642"
+           id="text4765"><tspan
+             sodipodi:role="line"
+             id="tspan4763"
+             x="125.0406"
+             y="159.32642"
+             style="stroke-width:0.26458332">Inteligência Remota</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="124.7828"
+           y="124.26349"
+           id="text4769"><tspan
+             sodipodi:role="line"
+             id="tspan4767"
+             x="124.7828"
+             y="124.26349"
+             style="stroke-width:0.26458332">Gerência de Dados</tspan></text>
+      </g>
+      <rect
+         y="104.66849"
+         x="28.687952"
+         height="140.76936"
+         width="59.289619"
+         id="rect4803"
+         style="opacity:0.6;fill:#aad400;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.55221826;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4807"
+         y="165.31671"
+         x="58.279018"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="165.31671"
+           x="58.279018"
+           id="tspan4805"
+           sodipodi:role="line">TV</tspan><tspan
+           id="tspan4809"
+           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="178.54588"
+           x="58.279018"
+           sodipodi:role="line">WEB</tspan><tspan
+           id="tspan4811"
+           style="font-size:8.46666622px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="191.77504"
+           x="58.279018"
+           sodipodi:role="line">Smartphone</tspan></text>
+    </g>
+  </g>
+</svg>
