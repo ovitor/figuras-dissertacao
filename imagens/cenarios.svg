@@ -206,15 +206,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98571429"
-     inkscape:cx="700"
+     inkscape:cx="1060.0813"
      inkscape:cy="400"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
      showgrid="false"
      units="px"
      width="1200px"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1680"
+     inkscape:window-height="968"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -226,7 +226,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -508,6 +508,17 @@
              x="42.330902"
              id="tspan2352"
              sodipodi:role="line">B</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="144.06128"
+           y="132.52264"
+           id="text1056"><tspan
+             sodipodi:role="line"
+             id="tspan1054"
+             x="144.06128"
+             y="132.52264"
+             style="stroke-width:0.26458332">C</tspan></text>
       </g>
       <g
          id="g2571">
@@ -812,8 +823,8 @@
              sodipodi:role="line">A</tspan></text>
       </g>
       <path
-         style="fill:#005544;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
-         d="m 128.61428,135.55155 c 40.8733,3.84506 60.1725,-16.71016 81.06219,5.9052 24.92999,26.98943 18.96792,78.47059 -4.56309,106.56189 -19.68094,-7.35196 -50.99931,2.32115 -75.15701,-4.29468 -10.09152,-46.11822 -2.01557,-74.22324 -1.34209,-108.17241 z"
+         style="opacity:0.5;fill:#005544;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 128.61428,135.55155 c 40.8733,3.84506 67.95662,-21.54168 88.84631,1.07368 24.92999,26.98943 12.52589,109.07023 -12.34721,111.39341 -19.68094,-7.35196 -50.99931,2.32115 -75.15701,-4.29468 -10.09152,-46.11822 -2.01557,-74.22324 -1.34209,-108.17241 z"
          id="path2616"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csccc" />
@@ -917,6 +928,39 @@
          id="path2630"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="213.16591"
+         y="163.19859"
+         id="text1060"><tspan
+           sodipodi:role="line"
+           id="tspan1058"
+           x="213.16591"
+           y="163.19859"
+           style="stroke-width:0.26458332">X</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="212.89748"
+         y="188.69829"
+         id="text1064"><tspan
+           sodipodi:role="line"
+           id="tspan1062"
+           x="212.89748"
+           y="188.69829"
+           style="stroke-width:0.26458332">Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="212.62907"
+         y="221.17685"
+         id="text1068"><tspan
+           sodipodi:role="line"
+           id="tspan1066"
+           x="212.62907"
+           y="221.17685"
+           style="stroke-width:0.26458332">Z</tspan></text>
     </g>
   </g>
 </svg>
